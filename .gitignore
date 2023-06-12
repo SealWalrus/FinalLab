@@ -1,0 +1,8 @@
+*.cbproj
+*.dfm
+*.cbproj.*
+__astcache/
+__history/
+Virtual-TreeView-7.6.5a
+Debug
+
